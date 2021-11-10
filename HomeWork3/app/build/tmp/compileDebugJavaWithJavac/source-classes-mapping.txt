@@ -1,0 +1,31 @@
+ru/mrroot/translator/databinding/ActivityMainBinding.java
+ ru.mrroot.translator.databinding.ActivityMainBinding
+ru/mrroot/translator/room/HistoryDao_Impl.java
+ ru.mrroot.translator.room.HistoryDao_Impl
+ ru.mrroot.translator.room.HistoryDao_Impl$1
+ ru.mrroot.translator.room.HistoryDao_Impl$10
+ ru.mrroot.translator.room.HistoryDao_Impl$11
+ ru.mrroot.translator.room.HistoryDao_Impl$12
+ ru.mrroot.translator.room.HistoryDao_Impl$13
+ ru.mrroot.translator.room.HistoryDao_Impl$14
+ ru.mrroot.translator.room.HistoryDao_Impl$2
+ ru.mrroot.translator.room.HistoryDao_Impl$3
+ ru.mrroot.translator.room.HistoryDao_Impl$4
+ ru.mrroot.translator.room.HistoryDao_Impl$5
+ ru.mrroot.translator.room.HistoryDao_Impl$6
+ ru.mrroot.translator.room.HistoryDao_Impl$7
+ ru.mrroot.translator.room.HistoryDao_Impl$8
+ ru.mrroot.translator.room.HistoryDao_Impl$9
+ru/mrroot/translator/databinding/FragmentHistoryBinding.java
+ ru.mrroot.translator.databinding.FragmentHistoryBinding
+ru/mrroot/translator/databinding/FragmentDescriptionBinding.java
+ ru.mrroot.translator.databinding.FragmentDescriptionBinding
+ru/mrroot/translator/BuildConfig.java
+ ru.mrroot.translator.BuildConfig
+ru/mrroot/translator/room/HistoryDataBase_Impl.java
+ ru.mrroot.translator.room.HistoryDataBase_Impl
+ ru.mrroot.translator.room.HistoryDataBase_Impl$1
+ru/mrroot/translator/databinding/FragmentHistoryRvItemBinding.java
+ ru.mrroot.translator.databinding.FragmentHistoryRvItemBinding
+ru/mrroot/translator/databinding/ActivityMainRvItemBinding.java
+ ru.mrroot.translator.databinding.ActivityMainRvItemBinding
