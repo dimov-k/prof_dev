@@ -1,0 +1,6 @@
+ru/mrroot/translator/databinding/ActivityMainBinding.java
+ ru.mrroot.translator.databinding.ActivityMainBinding
+ru/mrroot/translator/databinding/ViewTranslationBinding.java
+ ru.mrroot.translator.databinding.ViewTranslationBinding
+ru/mrroot/translator/BuildConfig.java
+ ru.mrroot.translator.BuildConfig
