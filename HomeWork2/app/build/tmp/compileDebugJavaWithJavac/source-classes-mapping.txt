@@ -1,0 +1,31 @@
+ru/mrroot/translator/di/DaggerAppComponent.java
+ ru.mrroot.translator.di.DaggerAppComponent
+ ru.mrroot.translator.di.DaggerAppComponent$1
+ ru.mrroot.translator.di.DaggerAppComponent$Builder
+ru/mrroot/translator/view/main/MainViewModel_Factory.java
+ ru.mrroot.translator.view.main.MainViewModel_Factory
+ru/mrroot/translator/di/module/RepositoryModule_DataSourceLocalFactory.java
+ ru.mrroot.translator.di.module.RepositoryModule_DataSourceLocalFactory
+ru/mrroot/translator/view/main/MainInteractor_Factory.java
+ ru.mrroot.translator.view.main.MainInteractor_Factory
+ru/mrroot/translator/di/module/AppModule_AppFactory.java
+ ru.mrroot.translator.di.module.AppModule_AppFactory
+ru/mrroot/translator/rx/SchedulerProvider_Factory.java
+ ru.mrroot.translator.rx.SchedulerProvider_Factory
+ ru.mrroot.translator.rx.SchedulerProvider_Factory$InstanceHolder
+ru/mrroot/translator/di/module/RepositoryModule_RepositoryRemote$app_debugFactory.java
+ ru.mrroot.translator.di.module.RepositoryModule_RepositoryRemote$app_debugFactory
+ru/mrroot/translator/databinding/ActivityMainBinding.java
+ ru.mrroot.translator.databinding.ActivityMainBinding
+ru/mrroot/translator/di/module/RepositoryModule_DataSourceRemoteFactory.java
+ ru.mrroot.translator.di.module.RepositoryModule_DataSourceRemoteFactory
+ru/mrroot/translator/databinding/ActivityMainItemBinding.java
+ ru.mrroot.translator.databinding.ActivityMainItemBinding
+ru/mrroot/translator/view/main/MainActivity_MembersInjector.java
+ ru.mrroot.translator.view.main.MainActivity_MembersInjector
+ru/mrroot/translator/di/ViewModelFactory_Factory.java
+ ru.mrroot.translator.di.ViewModelFactory_Factory
+ru/mrroot/translator/BuildConfig.java
+ ru.mrroot.translator.BuildConfig
+ru/mrroot/translator/di/module/RepositoryModule_RepositoryLocal$app_debugFactory.java
+ ru.mrroot.translator.di.module.RepositoryModule_RepositoryLocal$app_debugFactory
