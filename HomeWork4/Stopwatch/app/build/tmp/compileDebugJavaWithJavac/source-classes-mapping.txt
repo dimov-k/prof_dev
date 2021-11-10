@@ -1,0 +1,4 @@
+ru/mrroot/stopwatch/BuildConfig.java
+ ru.mrroot.stopwatch.BuildConfig
+ru/mrroot/stopwatch/databinding/ActivityMainBinding.java
+ ru.mrroot.stopwatch.databinding.ActivityMainBinding
